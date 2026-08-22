@@ -3,13 +3,17 @@
 	"id": "hopping-elytra",
 	"version": "${version}",
 	"name": "Hopping Elytra",
-	"description": "Bounce of the ground with elytra",
+	"description": "A modified fork of xminto's Hopping Elytra, updated for Minecraft 1.21.11 with improved multiplayer stability.",
 	"authors": [
 		"minto"
 	],
+	"contributors": [
+		"ysnst"
+	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/ysnst/Hopping-Elytra",
+		"sources": "https://github.com/ysnst/Hopping-Elytra",
+		"issues": "https://github.com/ysnst/Hopping-Elytra/issues"
 	},
 	"license": "MIT",
 	"icon": "assets/hopping-elytra/icon.png",
