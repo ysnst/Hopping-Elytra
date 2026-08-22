@@ -3,7 +3,7 @@
 	"id": "hopping-elytra",
 	"version": "${version}",
 	"name": "Hopping Elytra",
-	"description": "A modified fork of xminto's Hopping Elytra, updated for Minecraft 1.21.11 with improved multiplayer stability.",
+	"description": "xminto氏のHopping Elytraを改造し、Minecraft 1.21.11対応とマルチプレイ環境での安定性を改善したフォークです。",
 	"authors": [
 		"minto"
 	],
