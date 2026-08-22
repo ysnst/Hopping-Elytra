@@ -8,13 +8,8 @@
 		"minto"
 	],
 	"contributors": [
-		"ysnst"
+		"W_ETERNAL"
 	],
-	"contact": {
-		"homepage": "https://github.com/ysnst/Hopping-Elytra",
-		"sources": "https://github.com/ysnst/Hopping-Elytra",
-		"issues": "https://github.com/ysnst/Hopping-Elytra/issues"
-	},
 	"license": "MIT",
 	"icon": "assets/hopping-elytra/icon.png",
 	"environment": "client",
