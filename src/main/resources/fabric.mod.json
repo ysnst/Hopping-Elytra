@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "hopping-elytra",
-	"version": "${1.0}",
+	"version": "${version}",
 	"name": "Hopping Elytra",
 	"description": "Bounce of the ground with elytra",
 	"authors": [
@@ -13,7 +13,10 @@
 	},
 	"license": "MIT",
 	"icon": "assets/hopping-elytra/icon.png",
-	"environment": "*",
+	"environment": "client",
+	"mixins": [
+		"hopping-elytra.mixins.json"
+	],
 	"entrypoints": {
         "client": [
             "net.minto.hoppingelytra.HoppingElytraClient"
@@ -21,7 +24,7 @@
 	},
 	"depends": {
 		"fabricloader": ">=0.18.1",
-		"minecraft": "~1.21.10",
+		"minecraft": "~1.21.11",
 		"java": ">=21",
 		"fabric-api": "*"
 	},

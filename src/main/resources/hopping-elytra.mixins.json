@@ -2,8 +2,9 @@
 	"required": true,
 	"package": "net.minto.hoppingelytra.mixin",
 	"compatibilityLevel": "JAVA_21",
-	"mixins": [
-		"ExampleMixin"
+	"client": [
+		"ClientPlayNetworkHandlerMixin",
+		"EntityFlagsAccessor"
 	],
 	"injectors": {
 		"defaultRequire": 1
